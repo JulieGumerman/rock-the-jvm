@@ -24,6 +24,7 @@ object ValuesVariablesTypes extends App {
 
     //Variables
     var aVariable: Int = 4
+    aVariable = 22 //side effects!!!
 
 
 
