@@ -15,4 +15,12 @@ object Expressions extends App{
   println(blackDeathStatement)
 
 
+  val aCodeBlock = {
+    val y = 2
+    val z = y + 1
+
+    if (z > 2) "hey" else "boo"
+  }
+
+  println(aCodeBlock)
 }
