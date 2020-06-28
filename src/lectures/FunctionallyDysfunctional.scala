@@ -18,10 +18,16 @@ object FunctionallyDysfunctional extends App {
 
   noParams()
 
+  //in Scala, do not do loops! USE RECURSION INSTEAD!!!
   def aRepeatedFunction(aString: String, n: Int): String = {
     if (n == 1) aString
     else aString + aRepeatedFunction(aString, n-1)
   }
 
   println(aRepeatedFunction("Badger", 5))
+
+
+  val colors = List("purple", "blue", "green", "indigo", "red")
+  val paintItBlack = colors.map(_=="black")
+  println(paintItBlack)
 }
