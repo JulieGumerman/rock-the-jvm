@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92b8ca2a-513b-4861-9511-78d0e81572a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/lectures/FunctionallyDysfunctional.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/FunctionallyDysfunctional.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,11 +53,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lectures/FunctionallyDysfunctional.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
+            <state relative-caret-position="840">
               <caret line="56" column="23" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lectures/recursion.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lectures/PatternMatching.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -85,12 +103,14 @@
         <option value="$PROJECT_DIR$/src/lectures/package.scala" />
         <option value="$PROJECT_DIR$/src/lectures/functionsfunctionsfunctions.scala" />
         <option value="$PROJECT_DIR$/src/lectures/FunctionallyDysfunctional.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/recursion.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/PatternMatching.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="58" />
+    <option name="x" value="240" />
+    <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="757" />
   </component>
@@ -133,7 +153,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593310734841" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593397038823" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -150,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FunctionallyDysfunctional">
+  <component name="RunManager" selected="Application.PatternMatching">
     <configuration name="Expressions" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.Expressions" />
       <module name="rock-the-jvm" />
@@ -190,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScalaPlayground" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="playground.ScalaPlayground" />
+    <configuration name="PatternMatching" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.PatternMatching" />
       <module name="rock-the-jvm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.*" />
+          <option name="PATTERN" value="lectures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PatternMatching" />
         <item itemvalue="Application.FunctionallyDysfunctional" />
         <item itemvalue="Application.FunctionsFunctionsFunctions" />
         <item itemvalue="Application.Expressions" />
         <item itemvalue="Application.ValuesVariablesTypes" />
-        <item itemvalue="Application.ScalaPlayground" />
       </list>
     </recent_temporary>
   </component>
@@ -240,10 +260,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="58" width="1400" height="757" extended-state="0" />
-    <editor active="true" />
+    <frame x="240" y="23" width="1400" height="757" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26804122" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27172312" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -308,8 +327,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lectures/FunctionallyDysfunctional.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
+        <state relative-caret-position="840">
           <caret line="56" column="23" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/recursion.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/PatternMatching.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
         </state>
       </provider>
     </entry>
