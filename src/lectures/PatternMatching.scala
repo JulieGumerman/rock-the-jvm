@@ -4,7 +4,7 @@ object PatternMatching extends App {
 
   val awesomeFeminists =  List("Michelle Obama", "AOC", "RBG", "Gloria Steinam")
 
-  val badassBabes = awesomeFeminists.map(_ + " is a Badass babe")
+  val badassWoman = awesomeFeminists.map(_ + " is a badass woman")
 
   //badassBabes.foreach(println)
   //println(badassBabes)
@@ -15,5 +15,14 @@ object PatternMatching extends App {
   //println(awesomeFeminists.reverse)
 
   println(awesomeFeminists.zip(role))
+
+  val dayOfWeek = "Friday"
+
+  val typeOfDay = dayOfWeek match {
+    case "Monday" => "Manic Monday"
+    case "Friday" => "Ice skating day!!!"
+  }
+
+  println(typeOfDay)
 
 }
