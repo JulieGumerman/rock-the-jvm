@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92b8ca2a-513b-4861-9511-78d0e81572a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Objects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Objects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/generics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/generics.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,8 +88,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/OOP/generics.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="97" selection-start-line="13" selection-start-column="97" selection-end-line="13" selection-end-column="97" />
+            <state relative-caret-position="334">
+              <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -146,8 +145,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="367" />
-    <option name="y" value="35" />
+    <option name="x" value="398" />
+    <option name="y" value="60" />
     <option name="width" value="1400" />
     <option name="height" value="757" />
   </component>
@@ -203,7 +202,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595797438675" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595800193407" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -220,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InheritanceAndTraits">
+  <component name="RunManager" selected="Application.generics">
     <configuration name="InheritanceAndTraits" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="OOP.InheritanceAndTraits" />
       <module name="rock-the-jvm" />
@@ -273,12 +272,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="listymclisterson" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.listymclisterson" />
+    <configuration name="generics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.generics" />
       <module name="rock-the-jvm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.*" />
+          <option name="PATTERN" value="OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,11 +287,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.generics" />
         <item itemvalue="Application.InheritanceAndTraits" />
         <item itemvalue="Application.JavaPlayground" />
         <item itemvalue="Application.MethodNotation" />
         <item itemvalue="Application.OOPbasics" />
-        <item itemvalue="Application.listymclisterson" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +309,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="367" y="35" width="1400" height="757" extended-state="0" />
+    <frame x="398" y="60" width="1400" height="757" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32179675" />
@@ -322,7 +321,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32932332" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32932332" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -449,8 +448,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OOP/generics.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="97" selection-start-line="13" selection-start-column="97" selection-end-line="13" selection-end-column="97" />
+        <state relative-caret-position="334">
+          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
         </state>
       </provider>
     </entry>
