@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92b8ca2a-513b-4861-9511-78d0e81572a5" name="Default Changelist" comment="" />
+    <list default="true" id="92b8ca2a-513b-4861-9511-78d0e81572a5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/CaseClasses.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/CaseClasses.scala" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,15 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lectures/PatternMatching.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lectures/tuples.scala">
           <provider selected="true" editor-type-id="text-editor">
@@ -78,16 +72,25 @@
         <entry file="file://$PROJECT_DIR$/src/OOP/generics.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OOP/CaseClasses.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/OOP/CaseClasses.scala">
+        <entry file="file://$PROJECT_DIR$/src/OOP/OOPExercises.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="201">
+              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -139,12 +142,14 @@
         <option value="$PROJECT_DIR$/src/OOP/Objects.scala" />
         <option value="$PROJECT_DIR$/src/OOP/InheritanceAndTraits.scala" />
         <option value="$PROJECT_DIR$/src/OOP/generics.scala" />
+        <option value="$PROJECT_DIR$/src/OOP/CaseClasses.scala" />
+        <option value="$PROJECT_DIR$/src/OOP/OOPExercises.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="398" />
-    <option name="y" value="60" />
+    <option name="x" value="23" />
+    <option name="y" value="39" />
     <option name="width" value="1400" />
     <option name="height" value="757" />
   </component>
@@ -200,7 +205,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595800963796" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595814022292" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -217,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.generics">
+  <component name="RunManager" selected="Application.OOPExercises">
     <configuration name="InheritanceAndTraits" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="OOP.InheritanceAndTraits" />
       <module name="rock-the-jvm" />
@@ -257,8 +262,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOPbasics" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.OOPbasics" />
+    <configuration name="OOPExercises" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.OOPExercises" />
       <module name="rock-the-jvm" />
       <extension name="coverage">
         <pattern>
@@ -285,11 +290,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOPExercises" />
         <item itemvalue="Application.generics" />
         <item itemvalue="Application.InheritanceAndTraits" />
         <item itemvalue="Application.JavaPlayground" />
         <item itemvalue="Application.MethodNotation" />
-        <item itemvalue="Application.OOPbasics" />
       </list>
     </recent_temporary>
   </component>
@@ -307,9 +312,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="398" y="60" width="1400" height="757" extended-state="0" />
+    <frame x="23" y="39" width="1400" height="757" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32179675" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32621503" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -318,7 +324,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32932332" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32932332" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -425,6 +431,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP/InheritanceAndTraits.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP/generics.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/playground/JavaPlayground.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -436,17 +456,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/InheritanceAndTraits.scala">
+    <entry file="file://$PROJECT_DIR$/src/OOP/CaseClasses.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/generics.scala">
+    <entry file="file://$PROJECT_DIR$/src/OOP/OOPExercises.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        <state relative-caret-position="201">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
         </state>
       </provider>
     </entry>
