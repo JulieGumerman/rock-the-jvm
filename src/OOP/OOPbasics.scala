@@ -3,7 +3,7 @@ package OOP
 object OOPbasics extends App {
 
   val person = new Person("Julie", 37)
-
+  println(person.name)
   println(person.greet("Your mom"))
 
   val MayaAngelou = new Author("Maya", "Angelou", 1928)
@@ -12,19 +12,25 @@ object OOPbasics extends App {
 
   println(CagedBird.authorAge())
   println(CagedBird.isWrittenBy(MayaAngelou))
+  println(MayaAngelou.fullName())
 }
 
 
 //how to write a class
-class Person(name: String, age: Int) {
-
+//constructor
+class Person( val name: String, val age: Int) {
+//body
   def greet(greeter_name: String): String = s"$greeter_name says: Hi, $name"
 }
+
 
 //Exercise 1: Author and Novel classes
 
 class Author(val firstName: String, val lastName: String, val birthYear: Int) {
 
+  def fullName(): Unit = {
+    return firstName + lastName
+  }
   def about(): Unit = {
     return firstName + " " + lastName + " was born in " + birthYear
   }

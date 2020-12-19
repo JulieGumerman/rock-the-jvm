@@ -16,13 +16,13 @@ object OOPExercises extends App {
     def isAlive: Boolean = true
     def apply(): String = s"Hi, my name is ${name} and I like ${favMovie}"
 
-    def learnsScala = this learns "Scala"
+
   }
 
   val julz = new Person("Julie", "Return of the Jedi", 37)
 
   println((julz + "The Textbook").apply())
   println((+julz).age)
-  println(julz learnsScala)
+
 
 }

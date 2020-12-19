@@ -37,4 +37,17 @@ object InheritanceAndTraits extends App {
 
   }
 
+
+  class Fourteener {
+    def hike = println("I am calling and you must answer.")
+  }
+  class SangreDiCristos (val name: String) extends Fourteener {
+    def climb = {
+      hike
+      println("Your life will never be the same.")
+    }
+  }
+  val crestoneNeedle: SangreDiCristos = new SangreDiCristos("Crestone Needle")
+  println(crestoneNeedle.name)
+
 }

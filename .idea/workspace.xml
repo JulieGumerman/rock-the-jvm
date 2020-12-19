@@ -1,114 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="92b8ca2a-513b-4861-9511-78d0e81572a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractDataTypes/AbstractDataWhatnots.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/AnonymousClasses.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/ContravarianceWhee.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/MyList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/DthDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/Stringmadoozles.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/CaseClasses.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/CaseClasses.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/META-INF/rock-the-jvm.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Author.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Author.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/CaseClasses$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/CaseClasses$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/CaseClasses$Person$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/CaseClasses$Person$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/CaseClasses$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/CaseClasses$Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/CaseClasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/CaseClasses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/InheritanceAndTraits$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/InheritanceAndTraits$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/InheritanceAndTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/InheritanceAndTraits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/MethodNotation$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/MethodNotation$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/MethodNotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/MethodNotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Novel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Novel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPExercises$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPExercises$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPExercises$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPExercises$Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPExercises.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPExercises.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPbasics$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPbasics$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPbasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPbasics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Objects$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Objects$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Objects$Person$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Objects$Person$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Objects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Objects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics$Julie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics$Julie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics$femaleClimber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics$femaleClimber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/DefaultArgs$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/DefaultArgs$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/DefaultArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/DefaultArgs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/Expressions$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/Expressions$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/Expressions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/Expressions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/FunctionallyDysfunctional$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/FunctionallyDysfunctional$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/FunctionallyDysfunctional.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/FunctionallyDysfunctional.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/PatternMatching$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/PatternMatching$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/PatternMatching.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/PatternMatching.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/ValuesVariablesTypes$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/ValuesVariablesTypes$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/ValuesVariablesTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/ValuesVariablesTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/listymclisterson$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/listymclisterson$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/listymclisterson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/listymclisterson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/tuples$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/tuples$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/tuples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/tuples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/wheeeee$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/wheeeee$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/wheeeee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/wheeeee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/playground/ScalaPlayground$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/playground/ScalaPlayground$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/playground/ScalaPlayground.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/playground/ScalaPlayground.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rock-the-jvm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rock-the-jvm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/InheritanceAndTraits.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/InheritanceAndTraits.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/OOPExercises.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/OOPExercises.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/OOPbasics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/OOPbasics.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Objects.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Objects.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/generics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/generics.scala" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lectures/tuples.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lectures/listymclisterson.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OOP/OOPbasics.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OOP/MethodNotation.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OOP/Objects.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OOP/InheritanceAndTraits.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OOP/generics.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OOP/CaseClasses.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/OOP/OOPExercises.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/playground/JavaPlayground.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding>
-                <element signature="e#94#95#0" expanded="true" />
-                <element signature="e#143#144#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -121,136 +99,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/playground/ScalaPlayground.scala" />
-        <option value="$PROJECT_DIR$/src/lectures/ValuesVariablesTypes.scala" />
-        <option value="$PROJECT_DIR$/src/lectures/Expressions.scala" />
-        <option value="$PROJECT_DIR$/src/lectures/package.scala" />
-        <option value="$PROJECT_DIR$/src/lectures/functionsfunctionsfunctions.scala" />
-        <option value="$PROJECT_DIR$/src/lectures/FunctionallyDysfunctional.scala" />
-        <option value="$PROJECT_DIR$/src/lectures/recursion.scala" />
-        <option value="$PROJECT_DIR$/src/lectures/wheeeee.scala" />
-        <option value="$PROJECT_DIR$/src/lectures/DefaultArgs.scala" />
-        <option value="$PROJECT_DIR$/src/lectures/PatternMatching.scala" />
-        <option value="$PROJECT_DIR$/src/lectures/tuples.scala" />
-        <option value="$PROJECT_DIR$/src/lectures/listymclisterson.scala" />
-        <option value="$PROJECT_DIR$/src/OOP/OOPbasics.scala" />
-        <option value="$PROJECT_DIR$/src/OOP/MethodNotation.scala" />
-        <option value="$PROJECT_DIR$/src/playground/JavaPlayground.java" />
-        <option value="$PROJECT_DIR$/src/OOP/Objects.scala" />
-        <option value="$PROJECT_DIR$/src/OOP/InheritanceAndTraits.scala" />
-        <option value="$PROJECT_DIR$/src/OOP/generics.scala" />
-        <option value="$PROJECT_DIR$/src/OOP/CaseClasses.scala" />
-        <option value="$PROJECT_DIR$/src/OOP/OOPExercises.scala" />
-      </list>
-    </option>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="23" />
-    <option name="y" value="39" />
-    <option name="width" value="1400" />
-    <option name="height" value="757" />
-  </component>
+  <component name="ProjectId" id="1hiLIVvFJa9qxMKOEAfUymeE5Vj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="rock-the-jvm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rock-the-jvm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rock-the-jvm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rock-the-jvm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rock-the-jvm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rock-the-jvm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lectures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rock-the-jvm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rock-the-jvm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="OOP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rock-the-jvm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rock-the-jvm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="playground" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rock-the-jvm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rock-the-jvm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="playground" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaPlayground.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595814022292" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595814028673" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Scala Compiler" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.OOPExercises">
+  <component name="RunManager" selected="Application.InheritanceAndTraits">
     <configuration name="InheritanceAndTraits" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="OOP.InheritanceAndTraits" />
-      <module name="rock-the-jvm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaPlayground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.JavaPlayground" />
-      <module name="rock-the-jvm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="playground.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodNotation" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.MethodNotation" />
       <module name="rock-the-jvm" />
       <extension name="coverage">
         <pattern>
@@ -275,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generics" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.generics" />
+    <configuration name="OOPbasics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.OOPbasics" />
       <module name="rock-the-jvm" />
       <extension name="coverage">
         <pattern>
@@ -288,16 +157,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Objects" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Objects" />
+      <module name="rock-the-jvm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stringmadoozles" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.Stringmadoozles" />
+      <module name="rock-the-jvm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OOPExercises" />
-        <item itemvalue="Application.generics" />
         <item itemvalue="Application.InheritanceAndTraits" />
-        <item itemvalue="Application.JavaPlayground" />
-        <item itemvalue="Application.MethodNotation" />
+        <item itemvalue="Application.Objects" />
+        <item itemvalue="Application.OOPbasics" />
+        <item itemvalue="Application.Stringmadoozles" />
+        <item itemvalue="Application.OOPExercises" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -311,165 +207,51 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="23" y="39" width="1400" height="757" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32621503" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32932332" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32932332" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lectures/functionsfunctionsfunctions.scala" />
-    <entry file="file://$PROJECT_DIR$/src/playground/ScalaPlayground.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/ValuesVariablesTypes.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/Expressions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/FunctionallyDysfunctional.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="48" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/recursion.scala" />
-    <entry file="file://$PROJECT_DIR$/src/lectures/wheeeee.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/package.scala" />
-    <entry file="file://$PROJECT_DIR$/src/lectures/DefaultArgs.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/PatternMatching.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/tuples.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/listymclisterson.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/OOPbasics.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/MethodNotation.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/Objects.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/InheritanceAndTraits.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/generics.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/playground/JavaPlayground.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/CaseClasses.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/OOPExercises.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="444" y="124" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1600489433623">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="444" y="124" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.808@0.23.1440.808" timestamp="1600489433623" />
+    <state width="1358" height="195" key="GridCell.Tab.0.bottom" timestamp="1600644299779">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.0.bottom/0.23.1440.808/1440.23.1920.1057@1440.23.1920.1057" timestamp="1600644299779" />
+    <state width="1358" height="195" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1600624201360" />
+    <state width="1358" height="195" key="GridCell.Tab.0.center" timestamp="1600644299778">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.0.center/0.23.1440.808/1440.23.1920.1057@1440.23.1920.1057" timestamp="1600644299778" />
+    <state width="1358" height="195" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1600624201360" />
+    <state width="1358" height="195" key="GridCell.Tab.0.left" timestamp="1600644299778">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.0.left/0.23.1440.808/1440.23.1920.1057@1440.23.1920.1057" timestamp="1600644299778" />
+    <state width="1358" height="195" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1600624201359" />
+    <state width="1358" height="195" key="GridCell.Tab.0.right" timestamp="1600644299779">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.0.right/0.23.1440.808/1440.23.1920.1057@1440.23.1920.1057" timestamp="1600644299779" />
+    <state width="1358" height="195" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1600624201360" />
+    <state x="-221" y="56" key="SettingsEditor" timestamp="1600491167861">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="-221" y="56" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1600491167861" />
+    <state x="1975" y="373" width="670" height="676" key="search.everywhere.popup" timestamp="1600555945353">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1975" y="373" width="670" height="676" key="search.everywhere.popup/0.23.1440.808/1440.23.1920.1057@1440.23.1920.1057" timestamp="1600555945353" />
   </component>
   <component name="masterDetails">
     <states>
