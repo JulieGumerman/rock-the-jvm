@@ -17,5 +17,4 @@ object AbstractDataWhatnots extends App {
     def createIt(supplies: String): Unit = s"I am using ${supplies}"
   }
 
-  val wreathMaking =
 }

@@ -20,65 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92b8ca2a-513b-4861-9511-78d0e81572a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractDataTypes/AbstractDataWhatnots.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/AnonymousClasses.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/ContravarianceWhee.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/MyList.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/DthDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/Stringmadoozles.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/META-INF/rock-the-jvm.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Author.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Author.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/CaseClasses$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/CaseClasses$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/CaseClasses$Person$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/CaseClasses$Person$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/CaseClasses$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/CaseClasses$Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/CaseClasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/CaseClasses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Counter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/InheritanceAndTraits$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/InheritanceAndTraits$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/InheritanceAndTraits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/InheritanceAndTraits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/MethodNotation$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/MethodNotation$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/MethodNotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/MethodNotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Novel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Novel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPExercises$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPExercises$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPExercises$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPExercises$Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPExercises.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPExercises.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPbasics$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPbasics$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPbasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/OOPbasics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Objects$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Objects$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Objects$Person$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Objects$Person$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Objects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Objects.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics$$anon$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics$Climber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics$Climber.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics$Julie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics$Julie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics$femaleClimber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics$femaleClimber.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/OOP/generics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/DefaultArgs$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/DefaultArgs$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/DefaultArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/DefaultArgs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/Expressions$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/Expressions$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/Expressions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/Expressions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/FunctionallyDysfunctional$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/FunctionallyDysfunctional$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/FunctionallyDysfunctional.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/FunctionallyDysfunctional.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/PatternMatching$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/PatternMatching$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/PatternMatching.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/PatternMatching.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/ValuesVariablesTypes$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/ValuesVariablesTypes$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/ValuesVariablesTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/ValuesVariablesTypes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/listymclisterson$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/listymclisterson$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/listymclisterson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/listymclisterson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/tuples$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/tuples$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/tuples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/tuples.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/wheeeee$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/wheeeee$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/wheeeee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/lectures/wheeeee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/playground/ScalaPlayground$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/playground/ScalaPlayground$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm/playground/ScalaPlayground.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm/playground/ScalaPlayground.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-the-jvm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rock-the-jvm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/InheritanceAndTraits.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/InheritanceAndTraits.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/OOPExercises.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/OOPExercises.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/OOPbasics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/OOPbasics.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Objects.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Objects.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractDataTypes/AbstractDataWhatnots.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractDataTypes/AbstractDataWhatnots.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP/generics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/generics.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/MyList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/MyList.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,22 +67,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Scala Compiler" />
   </component>
-  <component name="RunManager" selected="Application.InheritanceAndTraits">
+  <component name="RunManager" selected="Application.oobasics">
     <configuration name="InheritanceAndTraits" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="OOP.InheritanceAndTraits" />
-      <module name="rock-the-jvm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OOPExercises" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.OOPExercises" />
       <module name="rock-the-jvm" />
       <extension name="coverage">
         <pattern>
@@ -170,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stringmadoozles" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.Stringmadoozles" />
+    <configuration name="caseclass" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.caseclass" />
       <module name="rock-the-jvm" />
       <extension name="coverage">
         <pattern>
@@ -183,13 +120,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="oobasics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.oobasics" />
+      <module name="rock-the-jvm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part2oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.oobasics" />
+        <item itemvalue="Application.caseclass" />
         <item itemvalue="Application.InheritanceAndTraits" />
         <item itemvalue="Application.Objects" />
         <item itemvalue="Application.OOPbasics" />
-        <item itemvalue="Application.Stringmadoozles" />
-        <item itemvalue="Application.OOPExercises" />
       </list>
     </recent_temporary>
   </component>
@@ -224,34 +174,51 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="444" y="124" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.808@0.23.1440.808" timestamp="1600489433623" />
-    <state width="1358" height="195" key="GridCell.Tab.0.bottom" timestamp="1600644299779">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1358" height="265" key="GridCell.Tab.0.bottom" timestamp="1608482075081">
+      <screen x="0" y="25" width="1440" height="801" />
     </state>
     <state width="1358" height="195" key="GridCell.Tab.0.bottom/0.23.1440.808/1440.23.1920.1057@1440.23.1920.1057" timestamp="1600644299779" />
     <state width="1358" height="195" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1600624201360" />
-    <state width="1358" height="195" key="GridCell.Tab.0.center" timestamp="1600644299778">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1358" height="265" key="GridCell.Tab.0.bottom/0.25.1440.801@0.25.1440.801" timestamp="1608482075081" />
+    <state width="1358" height="385" key="GridCell.Tab.0.bottom/0.25.1440.804@0.25.1440.804" timestamp="1608410820787" />
+    <state width="1358" height="265" key="GridCell.Tab.0.center" timestamp="1608482075081">
+      <screen x="0" y="25" width="1440" height="801" />
     </state>
     <state width="1358" height="195" key="GridCell.Tab.0.center/0.23.1440.808/1440.23.1920.1057@1440.23.1920.1057" timestamp="1600644299778" />
     <state width="1358" height="195" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1600624201360" />
-    <state width="1358" height="195" key="GridCell.Tab.0.left" timestamp="1600644299778">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1358" height="265" key="GridCell.Tab.0.center/0.25.1440.801@0.25.1440.801" timestamp="1608482075081" />
+    <state width="1358" height="385" key="GridCell.Tab.0.center/0.25.1440.804@0.25.1440.804" timestamp="1608410820785" />
+    <state width="1358" height="265" key="GridCell.Tab.0.left" timestamp="1608482075080">
+      <screen x="0" y="25" width="1440" height="801" />
     </state>
     <state width="1358" height="195" key="GridCell.Tab.0.left/0.23.1440.808/1440.23.1920.1057@1440.23.1920.1057" timestamp="1600644299778" />
     <state width="1358" height="195" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1600624201359" />
-    <state width="1358" height="195" key="GridCell.Tab.0.right" timestamp="1600644299779">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1358" height="265" key="GridCell.Tab.0.left/0.25.1440.801@0.25.1440.801" timestamp="1608482075080" />
+    <state width="1358" height="385" key="GridCell.Tab.0.left/0.25.1440.804@0.25.1440.804" timestamp="1608410820785" />
+    <state width="1358" height="265" key="GridCell.Tab.0.right" timestamp="1608482075081">
+      <screen x="0" y="25" width="1440" height="801" />
     </state>
     <state width="1358" height="195" key="GridCell.Tab.0.right/0.23.1440.808/1440.23.1920.1057@1440.23.1920.1057" timestamp="1600644299779" />
     <state width="1358" height="195" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1600624201360" />
+    <state width="1358" height="265" key="GridCell.Tab.0.right/0.25.1440.801@0.25.1440.801" timestamp="1608482075081" />
+    <state width="1358" height="385" key="GridCell.Tab.0.right/0.25.1440.804@0.25.1440.804" timestamp="1608410820786" />
     <state x="-221" y="56" key="SettingsEditor" timestamp="1600491167861">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="-221" y="56" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1600491167861" />
+    <state x="712" y="55" width="597" height="735" key="find.popup" timestamp="1608405161109">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="712" y="55" width="597" height="735" key="find.popup/0.25.1440.804@0.25.1440.804" timestamp="1608405161109" />
     <state x="1975" y="373" width="670" height="676" key="search.everywhere.popup" timestamp="1600555945353">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1975" y="373" width="670" height="676" key="search.everywhere.popup/0.23.1440.808/1440.23.1920.1057@1440.23.1920.1057" timestamp="1600555945353" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rock_the_jvm$oobasics.ic" NAME="oobasics Coverage Results" MODIFIED="1608481998316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lectures.part2oop.*</FILTER>
+    </SUITE>
   </component>
   <component name="masterDetails">
     <states>

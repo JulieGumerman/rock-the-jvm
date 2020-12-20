@@ -36,9 +36,7 @@ object generics extends App {
     val listOfIntegers = new MyList[Int]
     val listOfStrings = new MyList[String]
 
-    object MyList {
-      def empty[A]: MyList[A]
-    }
+
   }
 
 

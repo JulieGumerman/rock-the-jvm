@@ -12,7 +12,7 @@ abstract class MyList[+A] {
   def head: A
   def tail: MyList[A]
   def isEmpty: Boolean
-  def add[B >: A] (element: A): MyList[B]
+//  def add[B >: A] (element: A): MyList[B]
   def printElements: String
   override def toString: String = "[" + printElements + "]"
 
@@ -22,9 +22,6 @@ abstract class MyList[+A] {
 
   }
 
-  def map: MyList = new MyList
-  def filter: myList = new MyList[] {}
-  def flatMap: myList = new MyList[B]
 }
 
 //object Empty extends MyList {
@@ -38,7 +35,6 @@ abstract class Cons[+A](h: A, t: MyList[A]) extends MyList[A] {
   def head: A = h
   def tail: MyList[A]= t
   def isEmpty: Boolean = false
-  def add[B >:A](element: B): MyList[B] = new Cons(element, this)
   def printElements: String =
     if(t.isEmpty) "" + h
     else h + " " + t.printElements
