@@ -9,6 +9,8 @@ object oobasics extends App{
   fyodor.fullname()
   val candp = new Novel("Crime and Punishment", 1866, fyodor)
   candp.authorage()
+  val newCandP = candp.copy(1866)
+  println("new Copy of CandP", newCandP.name, newCandP.yearpublished)
 }
 //constructor
 class Person(val name: String, val age: Int) {
@@ -34,7 +36,6 @@ class Novel(val name: String, val yearpublished: Int, val author: Author) {
     println("author fullname", authorfullname)
     println(s"${author.fullname} was ${this.yearpublished - author.yob} when this was published")
   }
-//  def copy(val sameAuthor: String, val newYearPublished: Int) {
-//
-//  }
+  def copy(newYearPublished: Int): Novel = new Novel(name, newYearPublished, author)
+
 }
